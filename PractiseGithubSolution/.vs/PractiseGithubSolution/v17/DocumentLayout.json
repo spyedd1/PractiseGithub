@@ -1,12 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\715142\\source\\repos\\PractiseGithubSolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD54A8-0F25-4D7F-8528-076685045FCB}|PractiseGithubSolution\\PractiseGithubSolution.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\715142\\github\\practisegithub\\practisegithubsolution\\practisegithubsolution\\data\\migrations\\20260114151020_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD54A8-0F25-4D7F-8528-076685045FCB}|PractiseGithubSolution\\PractiseGithubSolution.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\715142\\github\\practisegithub\\practisegithubsolution\\practisegithubsolution\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD54A8-0F25-4D7F-8528-076685045FCB}|PractiseGithubSolution\\PractiseGithubSolution.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\715142\\github\\practisegithub\\practisegithubsolution\\practisegithubsolution\\practisegithubsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260114151020_InitialCreate.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
+              "RelativeToolTip": "PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:10:20.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\ScaffoldingReadMe.txt",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PractiseGithubSolution\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-14T15:09:31.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PractiseGithubSolution.csproj",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\PractiseGithubSolution.csproj",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\PractiseGithubSolution.csproj",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\PractiseGithubSolution.csproj*",
+              "RelativeToolTip": "PractiseGithubSolution\\PractiseGithubSolution.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T14:56:18.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
