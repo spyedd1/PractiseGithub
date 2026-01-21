@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260121141725_GoogleNew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD54A8-0F25-4D7F-8528-076685045FCB}|PractiseGithubSolution\\PractiseGithubSolution.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\715142\\github\\practisegithub\\practisegithubsolution\\practisegithubsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260121141457_Google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD54A8-0F25-4D7F-8528-076685045FCB}|PractiseGithubSolution\\PractiseGithubSolution.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\715142\\github\\practisegithub\\practisegithubsolution\\practisegithubsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DCD54A8-0F25-4D7F-8528-076685045FCB}|PractiseGithubSolution\\PractiseGithubSolution.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\715142\\github\\practisegithub\\practisegithubsolution\\practisegithubsolution\\data\\migrations\\20260114151020_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,19 +36,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20260121141725_GoogleNew.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260121141725_GoogleNew.cs",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\Data\\Migrations\\20260121141725_GoogleNew.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260121141725_GoogleNew.cs",
+              "RelativeToolTip": "PractiseGithubSolution\\Data\\Migrations\\20260121141725_GoogleNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:17:25.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260121141457_Google.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260121141457_Google.cs",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\Data\\Migrations\\20260121141457_Google.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260121141457_Google.cs",
+              "RelativeToolTip": "PractiseGithubSolution\\Data\\Migrations\\20260121141457_Google.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:14:57.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Program.cs",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\Program.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Program.cs",
+              "RelativeToolTip": "PractiseGithubSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:05:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "PractiseGithubSolution\\appsettings.json",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\appsettings.json",
+              "RelativeToolTip": "PractiseGithubSolution\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T14:05:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20260114151020_InitialCreate.cs",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
               "RelativeDocumentMoniker": "PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
               "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
               "RelativeToolTip": "PractiseGithubSolution\\Data\\Migrations\\20260114151020_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T15:10:20.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "PractiseGithubSolution\\ScaffoldingReadMe.txt",
@@ -49,12 +113,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PractiseGithubSolution.csproj",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\PractiseGithubSolution.csproj",
               "RelativeDocumentMoniker": "PractiseGithubSolution\\PractiseGithubSolution.csproj",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\PractiseGithubSolution.csproj*",
-              "RelativeToolTip": "PractiseGithubSolution\\PractiseGithubSolution.csproj*",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\715142\\GitHub\\PractiseGithub\\PractiseGithubSolution\\PractiseGithubSolution\\PractiseGithubSolution.csproj",
+              "RelativeToolTip": "PractiseGithubSolution\\PractiseGithubSolution.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-14T14:56:18.064Z",
